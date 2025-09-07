@@ -87,6 +87,8 @@ The system is architected for **Model Context Protocol (MCP)** integration:
 
 ## 🎯 Live Demo
 
+**🚀 Interactive Colab Demo**: https://colab.research.google.com/drive/1k7SFK3n79a0T1KQwQV6h-IJMaWykRxr-?usp=sharing
+
 **Reset Environment**: https://6tekwkwbpc.execute-api.us-east-1.amazonaws.com/default/ChimpBridge_DemoReset
 
 **Demo Flow**:
